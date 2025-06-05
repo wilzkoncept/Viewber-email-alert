@@ -1,0 +1,4 @@
+requests
+imapclient
+pyzmail36
+certifi
